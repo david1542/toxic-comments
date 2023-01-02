@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "toxicity-kaggle"
 version = "0.1.0"
-description = "Classify toxic online comments challenge from Kaggle"
-authors = ["Dudu Lasry <dudu.lasry@viz.ai>"]
+description = "Toxic comments classification challenge from Kaggle"
+authors = ["Dudu Lasry <davidlasry696@gmail.com>"]
 readme = "README.md"
 packages = [{include = "toxicity_kaggle"}]
 
