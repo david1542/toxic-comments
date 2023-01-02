@@ -7,7 +7,7 @@ The goal of the competition is to identify and classify toxic online comments.
 ## Installation
 1. Clone this repo:
 ```bash
-git clone http://
+git clone https://github.com/david1542/toxic-comments.git
 ```
 2. Install the dependencies:
 ```bash
